@@ -43,6 +43,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_stock: yes
+          plugin_stock_token: ${{ secrets.YAHOO }}
           plugin_stock_duration: 1mo
           plugin_stock_interval: 5m
-          plugin_stock_symbol: RUB=X
+          plugin_stock_symbol: USD/RUB
