@@ -46,7 +46,7 @@ jobs:
           plugin_music_limit: 4
           plugin_music_mode: playlist
           plugin_music_played_at: yes
-          plugin_music_playlist: https://open.spotify.com/playlist/5gD2q5700mwOoTIucA1heQ
+          plugin_music_playlist: https://open.spotify.com/playlist/5gD2q5700mwOoTIucA1heQ?si=87146b85aaf74a64
           plugin_music_provider: spotify
           plugin_music_time_range: short
           plugin_music_top_type: tracks
@@ -54,4 +54,4 @@ jobs:
           plugin_stock: yes
           plugin_stock_duration: 1mo
           plugin_stock_interval: 5m
-          plugin_stock_symbol: MOEX
+          plugin_stock_symbol: MCX
