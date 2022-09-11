@@ -1,3 +1,6 @@
+<h4>Who am I?</h4>
+<p>My name is Kacper (people refer to me as Kaspian), curently studying computer science. You may see me contribute to a lot of open source projects. I strongly believe in Free Software movement, and all publicly available minecraft plugins I make, not matter the price, will always land on my profile, open to everyone.</p>
+
 ![Metrics](/github-metrics.svg) <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://matrix.to/#/@kaspian:matrix.org" target="blank">
