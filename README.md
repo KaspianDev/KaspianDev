@@ -1,13 +1,10 @@
 <h4>Who am I?</h4>
 <p>My name is Kacper (people refer to me as Kaspian), curently studying computer science. You may see me contribute to a lot of open source projects. I strongly believe in Free Software movement, and all publicly available minecraft plugins I make, no matter the price, will always land on my profile, open to everyone.</p>
 
-![Metrics](/github-metrics.svg) <h3 align="left">Connect with me:</h3>
+![Metrics](/github-metrics.svg) <h3 align="left">Chat with me:</h3>
 <p align="left">
   <a href="https://matrix.to/#/@kaspian:matrix.org" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Matrix_icon.svg/512px-Matrix_icon.svg.png" alt="eak2zA4s6m" height="48" width="48" />
-  </a>
-  <a href="https://discord.com/invite/eak2zA4s6m" target="blank">
-    <img align="center" src="https://i.imgur.com/MvsuzC1.png" alt="eak2zA4s6m" height="48" width="60" />
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
