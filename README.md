@@ -1,5 +1,5 @@
 <h4>Who am I?</h4>
-<p>My name is Kacper, curently studying computer science. You may see me contribute to a lot of open source projects. I strongly believe in Free Software and all publicly available minecraft plugins I make, will always land on my profile, open to everyone.</p>
+<p>My name is Kacper, I'm currently studying computer science. You may see me contribute to a lot of open source projects. I strongly believe in Free Software.</p>
 
 ![Metrics](/github-metrics.svg) <h3 align="left">Chat with me:</h3>
 <p align="left">
